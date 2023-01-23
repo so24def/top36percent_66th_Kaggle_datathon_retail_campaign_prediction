@@ -1,7 +1,7 @@
 # Datathon - Harcanan Tutara Göre Müşterilerin Kampanyaya Katılma Tahmini
 
   
-#### Bu yarışmayı Kaggle üzerinden düzenleyen şirket, datathon bittikten bir süre sonra verilerinin gizlilğini sağlamak kapsamında benimle iletişime geçerek paylaştığım yarışma çözümümü gizliye almamı rica etti. Şirket tarafından paylaşılan ham veriler görünmeyecek şekilde çözümümü paylaşmanın herhangi bir sorun yaratmayacağını teyit ettikten sonra, yarışma esnasında izlediğim yolları ve çözümleri paylaşabilmek adına çalışmamı tekrar yüklemiş bulunmaktayım.
+### Bu yarışmayı Kaggle üzerinden düzenleyen şirket, datathon bittikten bir süre sonra verilerinin gizlilğini sağlamak kapsamında benimle iletişime geçerek paylaştığım yarışma çözümümü gizliye almamı rica etti. Şirket tarafından paylaşılan ham veriler görünmeyecek şekilde çözümümü paylaşmanın herhangi bir sorun yaratmayacağını teyit ettikten sonra, yarışma esnasında izlediğim yolları ve çözümleri paylaşabilmek adına çalışmamı tekrar yüklemiş bulunmaktayım.
 
   Ham verilerle henüz bir tecrübem olmamasına rağmen, sadece kendimi test etmek adına ve herhangi bir beklentim olmadan katıldığım, ancak sadece son dört gününde katılım sağlayabildiğim bu yarışmada katılımcılardan beklenen;
   
