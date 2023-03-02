@@ -8,3 +8,5 @@ As this one being my first competition attempt, ranking top %36 was highly unexp
 __With the request of the company organizing the competition, there is no data output in the solutions in order to ensure the confidentiality of the shared data. Only my solution steps can be followed.__
 
 __For further information you may check the provided notebooks.__
+
+https://www.kaggle.com/so24def
