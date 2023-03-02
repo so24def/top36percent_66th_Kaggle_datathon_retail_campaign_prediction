@@ -1,4 +1,4 @@
-# Predicting whether customers join a campaign or not based on their spendings
+# Predicting whether a customer join a campaign or not based on their spendings
 
 Includes detailed solution of [__Migros Datahon__](https://www.kaggle.com/competitions/migros-datathon-coderspace). I attended the competition solo and ranked 66th(top %36) out of 287 competitors and 186 teams.
 
